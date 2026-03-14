@@ -8,7 +8,6 @@ Based in Quebec, Canada 🇨🇦
 
 Français/English 
 
----
 
 ## 🛠️ My skills 
 
