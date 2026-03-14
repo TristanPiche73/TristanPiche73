@@ -4,6 +4,10 @@ I'm a Front-End developer in learning📈
 Currently building projects using HTML, CSS and JavaScript
 while exploring blender to expend my skill set.
 
+Based in Quebec, Canada 🇨🇦
+
+Français/English 
+
 ---
 
 ## 🛠️ My skills 
@@ -21,6 +25,11 @@ while exploring blender to expend my skill set.
 - JavaScript
 - Web development
 - Blender
+
+## 🎯 My goals
+
+I want to improve my JavaScript Skills, build more interactive web applications
+and I'm eager to learn new technologies!
 
 <!--
 
